@@ -1,0 +1,11 @@
+#outer{
+    background-color: #f1f1f1;
+    height: 100%;
+    width: 100%;
+}
+#child-user{
+    background-color: #c83262;
+}
+#child-progress{
+    background-color: #c83262;
+}
